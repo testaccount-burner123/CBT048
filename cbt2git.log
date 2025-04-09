@@ -1,23 +1,23 @@
-2025-04-08 22:37:58.416143 - Received CBT.V508.FILE048.PDS from FILE048.XMI 
-2025-04-08 22:37:58.418198 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE048.PDS, moved to PDS/$$$#DATE
-2025-04-08 22:37:58.418919 - Found @FILE048.txt (text/plain) in CBT.V508.FILE048.PDS, moved to PDS/@FILE048
-2025-04-08 22:37:58.419479 - Found APUT.txt (text/plain) in CBT.V508.FILE048.PDS, moved to PDS/APUT
-2025-04-08 22:37:58.420025 - Found EPUTL.txt (text/plain) in CBT.V508.FILE048.PDS, moved to PDS/EPUTL
-2025-04-08 22:37:58.420627 - Found LISTSPC.txt (text/plain) in CBT.V508.FILE048.PDS, moved to PDS/LISTSPC
-2025-04-08 22:37:58.421168 - Found LISTSPC$.jcl (text/plain) in CBT.V508.FILE048.PDS, moved to PDS/LISTSPC$
-2025-04-08 22:37:58.421747 - Found LISTSPC#.txt (text/plain) in CBT.V508.FILE048.PDS, moved to PDS/LISTSPC#
-2025-04-08 22:37:58.422369 - Found LISTVOL.txt (text/plain) in CBT.V508.FILE048.PDS, moved to PDS/LISTVOL
-2025-04-08 22:37:58.422901 - Found LISTVOL$.jcl (text/plain) in CBT.V508.FILE048.PDS, moved to PDS/LISTVOL$
-2025-04-08 22:37:58.423496 - Found LISTVOL#.txt (text/plain) in CBT.V508.FILE048.PDS, moved to PDS/LISTVOL#
-2025-04-08 22:37:58.424060 - Found LOADLIB.xmi (application/xmit) in CBT.V508.FILE048.PDS, moved to PDS/LOADLIB.xmi
-2025-04-08 22:37:58.434665 - Received SYS1.W$$.LINKLIB from LOADLIB.xmi 
-2025-04-08 22:37:58.435538 - Found alias LISTS to LISTSPC in SYS1.W$$.LINKLIB, moved to PDS/LISTS
-2025-04-08 22:37:58.436224 - Found LISTSPC.bin (application/octet-stream) in SYS1.W$$.LINKLIB, moved to LOADLIB/LISTSPC
-2025-04-08 22:37:58.436515 - Found alias LISTV to LISTVOL in SYS1.W$$.LINKLIB, moved to PDS/LISTV
-2025-04-08 22:37:58.437150 - Found LISTVOL.bin (application/octet-stream) in SYS1.W$$.LINKLIB, moved to LOADLIB/LISTVOL
-2025-04-08 22:37:58.437394 - Found alias LV to LISTVOL in SYS1.W$$.LINKLIB, moved to PDS/LV
-2025-04-08 22:37:58.437596 - Found alias SP to LISTSPC in SYS1.W$$.LINKLIB, moved to PDS/SP
-2025-04-08 22:37:58.438491 - Found LOCINDEX.txt (text/plain) in CBT.V508.FILE048.PDS, moved to PDS/LOCINDEX
-2025-04-08 22:37:58.439192 - Found TSOB.rexx (text/plain) in CBT.V508.FILE048.PDS, moved to PDS/TSOB
-2025-04-08 22:37:58.439786 - Found TSOE.rexx (text/plain) in CBT.V508.FILE048.PDS, moved to PDS/TSOE
-2025-04-08 22:37:58.440341 - Found TSOV.rexx (text/plain) in CBT.V508.FILE048.PDS, moved to PDS/TSOV
+2025-04-09 15:28:22.769143 - Received CBT.V508.FILE048.PDS from FILE048.XMI 
+2025-04-09 15:28:22.781524 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE048.PDS, moved to PDS/$$$#DATE
+2025-04-09 15:28:22.782170 - Found @FILE048.txt (text/plain) in CBT.V508.FILE048.PDS, moved to PDS/@FILE048
+2025-04-09 15:28:22.782836 - Found APUT.txt (text/plain) in CBT.V508.FILE048.PDS, moved to PDS/APUT
+2025-04-09 15:28:22.783480 - Found EPUTL.txt (text/plain) in CBT.V508.FILE048.PDS, moved to PDS/EPUTL
+2025-04-09 15:28:22.784227 - Found LISTSPC.txt (text/plain) in CBT.V508.FILE048.PDS, moved to PDS/LISTSPC
+2025-04-09 15:28:22.784824 - Found LISTSPC$.jcl (text/plain) in CBT.V508.FILE048.PDS, moved to PDS/LISTSPC$
+2025-04-09 15:28:22.785457 - Found LISTSPC#.txt (text/plain) in CBT.V508.FILE048.PDS, moved to PDS/LISTSPC#
+2025-04-09 15:28:22.786072 - Found LISTVOL.txt (text/plain) in CBT.V508.FILE048.PDS, moved to PDS/LISTVOL
+2025-04-09 15:28:22.786672 - Found LISTVOL$.jcl (text/plain) in CBT.V508.FILE048.PDS, moved to PDS/LISTVOL$
+2025-04-09 15:28:22.787334 - Found LISTVOL#.txt (text/plain) in CBT.V508.FILE048.PDS, moved to PDS/LISTVOL#
+2025-04-09 15:28:22.787911 - Found LOADLIB.xmi (application/xmit) in CBT.V508.FILE048.PDS, moved to PDS/LOADLIB.xmi
+2025-04-09 15:28:22.798637 - Received SYS1.W$$.LINKLIB from LOADLIB.xmi 
+2025-04-09 15:28:22.809340 - Found alias LISTS to LISTSPC in SYS1.W$$.LINKLIB, moved to PDS/LISTS
+2025-04-09 15:28:22.810048 - Found LISTSPC.bin (application/octet-stream) in SYS1.W$$.LINKLIB, moved to LOADLIB/LISTSPC
+2025-04-09 15:28:22.810382 - Found alias LISTV to LISTVOL in SYS1.W$$.LINKLIB, moved to PDS/LISTV
+2025-04-09 15:28:22.811056 - Found LISTVOL.bin (application/octet-stream) in SYS1.W$$.LINKLIB, moved to LOADLIB/LISTVOL
+2025-04-09 15:28:22.811366 - Found alias LV to LISTVOL in SYS1.W$$.LINKLIB, moved to PDS/LV
+2025-04-09 15:28:22.811638 - Found alias SP to LISTSPC in SYS1.W$$.LINKLIB, moved to PDS/SP
+2025-04-09 15:28:22.812638 - Found LOCINDEX.txt (text/plain) in CBT.V508.FILE048.PDS, moved to PDS/LOCINDEX
+2025-04-09 15:28:22.813217 - Found TSOB.rexx (text/plain) in CBT.V508.FILE048.PDS, moved to PDS/TSOB
+2025-04-09 15:28:22.813797 - Found TSOE.rexx (text/plain) in CBT.V508.FILE048.PDS, moved to PDS/TSOE
+2025-04-09 15:28:22.814395 - Found TSOV.rexx (text/plain) in CBT.V508.FILE048.PDS, moved to PDS/TSOV
